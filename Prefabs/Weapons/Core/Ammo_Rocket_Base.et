@@ -1,0 +1,10 @@
+Projectile {
+ ID "DA5C6308000CDEF2"
+ components {
+  MissileMoveComponent "{0EF36690881261EF}" {
+   InitSpeedVariation 10
+   DispersionMultiplier 2
+   WindInfluenceMultiplier 0.2
+  }
+ }
+}
