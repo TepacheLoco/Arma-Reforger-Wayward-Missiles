@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{3ECA3A935BC069B9}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_BaseLoadout.et" {
+ ID "200D264F0EEA1A28"
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {
+   WeaponTemplate "{0A9D7B30DBB2A304}Prefabs/Weapons/Launchers/RPG7/Launcher_RPG7_PGO7_USSRWonked.et"
+  }
+ }
+}
